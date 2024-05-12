@@ -1,0 +1,127 @@
+[
+  {
+    "question": "What is the correct file extension for Python files?",
+    "answers": [ ".pyt", ".py", ".pt", "pyth" ],
+    "correct_answer": 1
+  },
+  {
+    "question": "Which data type is used to store a sequence of characters in Python?",
+    "answers": [ "Integer", "Float", "String", "Boolean" ],
+    "correct_answer": 2
+  },
+  {
+    "question": "How do you comment out a single line in Python?",
+    "answers": [
+      "// This is a comment",
+      "# This is a comment",
+      "/* This is a comment */",
+      "<!-- This is a comment -->"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "question": "What does the break statement do in a loop?",
+    "answers": [
+      "Exits the loop completely",
+      "Skips the current iteration and continues to the next",
+      "Creates an infinite loop",
+      "Raises an error"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Which of the following is true about Python variables?",
+    "answers": [
+      "Variables must be declared before use",
+      "Variables have a fixed data type",
+      "Variable names are case-insensitive",
+      "Variables cannot be reassigned"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "question": "What is the output of the following code: `print(type([]))`?",
+    "answers": [ "<class 'list'>", "<class 'dict'>", "<class 'str'>", "<class 'int'>" ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Which of the following is not a valid variable name in Python?",
+    "answers": [ "my_var", "_var", "2var", "var_name" ],
+    "correct_answer": 2
+  },
+  {
+    "question": "What does the `len()` function do in Python?",
+    "answers": [
+      "Returns the length of an object",
+      "Converts a value to an integer",
+      "Returns the absolute value of a number",
+      "Returns the largest item in an iterable"
+    ],
+    "correct_answer": 0
+  },
+  {
+    "question": "What is the correct syntax to import a module named 'math' in Python?",
+    "answers": [
+      "import.math",
+      "import math",
+      "#import math",
+      "import_math"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "question": "What is the output of the following code: `print(10 % 3)`?",
+    "answers": [
+      "3",
+      "1",
+      "0",
+      "3.3333333333333335"
+    ],
+    "correct_answer": 1
+  },
+  {
+    "question": "Which of the following is not a Python data structure?",
+    "answers": [ "List", "Tuple", "Dictionary", "Class" ],
+    "correct_answer": 3
+  },
+  {
+    "question": "What is the output of the following code: `print('Hello, ' + 'World!')`?",
+    "answers": [ "'Hello, World!'", "'Hello, ' 'World!'", "'Hello, ' + 'World!'", "None of the above" ],
+    "correct_answer": 0
+  },
+  {
+    "question": "Which of the following is not a loop in Python?",
+    "answers": [ "for", "while", "do-while", "All of the above are loops in Python" ],
+    "correct_answer": 2
+  },
+  {
+    "question": "What is the output of the following code: `print(2 ** 3)`?",
+    "answers": [ "6", "8", "9", "5" ],
+    "correct_answer": 1
+  },
+  {
+    "question": "Which of the following is not a comparison operator in Python?",
+    "answers": [ "==", "!=", "<>", "!=" ],
+    "correct_answer": 2
+  },
+  {
+    "question": "What is the output of the following code: `print('Python'.lower())`?",
+    "answers": [ "'python'", "'PYTHON'", "'Python'", "None of the above" ],
+    "correct_answer": 0
+  },
+  {
+    "question": "What is the output of the following code: `print('Python'.upper())`?",
+    "answers": [ "'python'", "'PYTHON'", "'Python'", "None of the above" ],
+    "correct_answer": 1
+  },
+  {
+    "question": "What is the output of the following code: `print('   Python   '.strip())`?",
+    "answers": [ "'Python'", "'   Python   '", "'Python   '", "'   Python'" ],
+    "correct_answer": 0
+  },
+  {
+    "question": "What is the output of the following code: `print('Python'.replace('P', 'J'))`?",
+    "answers": [ "'Jython'", "'Python'", "'JyJhon'", "'Python'.replace('P', 'J')" ],
+    "correct_answer": 0
+  }
+]
